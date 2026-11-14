@@ -1,0 +1,10 @@
+* text=auto
+*.py text eol=lf
+*.m text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.pth binary
+*.npy binary
+*.npz binary
+*.index binary
+*.data-* binary
