@@ -121,3 +121,9 @@ The selected output directory contains `run_config.json`, `run_summary.json`, `b
 `checkpoint_final.pt`, `diff_replay.npz`, evaluation geometry under `eval_*/`,
 and run records under `records/`. History indexes are maintained under the
 history root.
+
+## License
+
+This project's original code is licensed under the [MIT License](LICENSE).
+Third-party code, dependencies, and pretrained assets remain subject to their
+applicable licenses; this license does not grant rights held by third parties.
