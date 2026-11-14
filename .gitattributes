@@ -8,3 +8,5 @@
 *.npz binary
 *.index binary
 *.data-* binary
+*.pdf binary
+*.png binary

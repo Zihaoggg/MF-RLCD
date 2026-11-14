@@ -3,6 +3,10 @@
 Microstructure inverse design using reinforcement-learning-guided conditional
 diffusion.
 
+![MF-RLCD conceptual framework overview](assets/figures/mfrlcd_framework.png)
+
+[View the original framework figure (PDF)](assets/figures/mfrlcd_framework.pdf).
+
 ## Environment
 
 Reference execution environment:
